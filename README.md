@@ -41,4 +41,10 @@ setup()
 import module_that_use_transformers
 ```
 
+## Rationale
+
+* [Idea](https://nvbn.github.io/2016/08/09/partial-piping/);
+* [AST transformations](https://nvbn.github.io/2016/08/09/partial-piping-ast/);
+* [AST transformations on import](https://nvbn.github.io/2016/08/17/ast-import/).
+
 ## License MIT
