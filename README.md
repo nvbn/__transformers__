@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-pip install transformers
+pip install git+https://github.com/nvbn/__transformers__
 ```
 
 ## Usage
